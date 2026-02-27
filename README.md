@@ -6,6 +6,7 @@ This project is a Machine Learning based Computer Vision system that classifies 
 1.Support Vector Machine (SVM)
 2.OpenCV for image preprocessing
 3.Feature extraction techniques
+
 The objective of this project is to build a traditional ML-based image classifier without using deep learning, demonstrating strong fundamentals in machine learning and image processing.
 
 🎯 Problem Statement
